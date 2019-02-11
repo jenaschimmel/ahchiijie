@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mubohk.pslaissaquah.com/sitemap.xml
